@@ -9,4 +9,4 @@
 
 ## How to run locally:
 git clone https://github.com/coltonturner21/options-pricing-engine.git
-Then open app.R in Rstudio and click Run App
+## Then open app.R in Rstudio and click Run App
