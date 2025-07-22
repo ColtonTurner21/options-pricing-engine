@@ -1,9 +1,12 @@
-# How to run
-a) Open "app.R" in RStudio.
-b) Click "Run App" in the upper right corner.
-c) Enter option parameters and then hit "Price Option".
+## Launch the app at https://coltonturner22.shinyapps.io/OptionsDashboard/
 
-# Features
-- Supports European, American, and Asian options.
-- User-friendly input for all model parameters.
-- Built fully in R and Shiny. 
+## Features:
+- Black-Scholes formula for European options  
+- Binomial Tree model for American options
+- Monte Carlo simulation for Asian options
+- Real-time calculation based on user inputs  
+- Clean UI with user-friendly input controls
+
+## How to run locally:
+git clone https://github.com/coltonturner21/options-pricing-engine.git
+Then open app.R in Rstudio and click Run App
